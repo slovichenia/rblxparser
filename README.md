@@ -76,7 +76,7 @@ python main.py
 
 ### Option B — Download the .exe
 
-1. Go to the [Releases](https://github.com/aaadsad7/rblxparser/releases) page
+1. Go to the [Releases](https://github.com/aaadsad7-dev/rblxparser/releases) page
 2. Download `RBXL Extractor.exe`
 3. Double click and run — no Python needed
 
