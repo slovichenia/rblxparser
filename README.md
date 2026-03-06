@@ -132,15 +132,6 @@ rblxparser/
 
 ---
 
-## ✦ Building from Source (.exe)
-
-```bash
-pip install pyinstaller
-pyinstaller --onefile --windowed --name "RBXL Extractor" --icon "icon.ico" main.py
-```
-
-Your `.exe` will be in the `dist/` folder.
-
 ---
 
 ## ✦ Requirements
